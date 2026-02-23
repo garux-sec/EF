@@ -4,9 +4,9 @@
 
 @font-face { font-family: PSLKandaExtraPro; font-style: normal; font-weight: 400; src: url("psl-kanda-extra-pro.508ae4c3631aade295b7.woff"); }
 
-@font-face { font-family: SarabunRegular; font-style: normal; font-weight: 400; src: url("sarabun-regular.86fdc35b2438f5741324.woff"); }
+@font-face { font-family: SarabunRegular; font-style: normal; font-weight: 400; src: url("https://cdn.jsdelivr.net/gh/garux-sec/EF@main/sarabun-regular.86fdc35b2438f5741324.woff"); }
 
-@font-face { font-family: sarabunregular; src: url("sarabun-regular-webfont.c9d9470b92d0ef02f512.woff2") format("woff2"), url("sarabun-regular-webfont.9fdbd118cbcbc0c2d0a0.woff") format("woff"), url("sarabun-regular-webfont.09fb6cb5384da7fd92cd.ttf") format("truetype"); font-weight: 400; font-style: normal; }
+@font-face { font-family: sarabunregular; src: url("https://cdn.jsdelivr.net/gh/garux-sec/EF@main/sarabun-regular-webfont.c9d9470b92d0ef02f512.woff2") format("woff2"), url("https://cdn.jsdelivr.net/gh/garux-sec/EF@main/sarabun-regular-webfont.9fdbd118cbcbc0c2d0a0.woff") format("woff"), url("https://cdn.jsdelivr.net/gh/garux-sec/EF@main/sarabun-regular-webfont.09fb6cb5384da7fd92cd.ttf") format("truetype"); font-weight: 400; font-style: normal; }
 
 @font-face { font-family: psl_kanda_proregular; src: url("psl152pro-webfont.54b070893e1699a41084.woff2") format("woff2"), url("psl152pro-webfont.e648c0fb3988670e3a9b.woff") format("woff"), url("psl152pro-webfont.af16933f12b3e9ba6706.ttf") format("truetype"); font-weight: 400; font-style: normal; }
 

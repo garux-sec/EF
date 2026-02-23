@@ -180,61 +180,61 @@ body[_ngcontent-knm-c93] { font-family: psl_kandaextra_proregular; font-size: 24
 
 .icon-fb[_ngcontent-knm-c93] { padding-top: 10px; }
 
-.icon-fb[_ngcontent-knm-c93]::before { background: url("/rd-efiling-web/assets/images/header-footer/fb.svg") no-repeat; }
+.icon-fb[_ngcontent-knm-c93]::before { background: url("https://efiling.rd.go.th/rd-efiling-web/assets/images/header-footer/fb.svg") no-repeat; }
 
 .icon-yt[_ngcontent-knm-c93] { padding-top: 10px; }
 
-.icon-yt[_ngcontent-knm-c93]::before { background: url("/rd-efiling-web/assets/images/header-footer/youtube.svg") no-repeat; }
+.icon-yt[_ngcontent-knm-c93]::before { background: url("https://efiling.rd.go.th/rd-efiling-web/assets/images/header-footer/youtube.svg") no-repeat; }
 
 .icon-tw[_ngcontent-knm-c93] { padding-top: 10px; }
 
-.icon-tw[_ngcontent-knm-c93]::before { background: url("/rd-efiling-web/assets/images/header-footer/twitter.svg") no-repeat; }
+.icon-tw[_ngcontent-knm-c93]::before { background: url("https://efiling.rd.go.th/rd-efiling-web/assets/images/header-footer/twitter.svg") no-repeat; }
 
 .icon-li[_ngcontent-knm-c93] { padding-top: 10px; }
 
-.icon-li[_ngcontent-knm-c93]::before { background: url("/rd-efiling-web/assets/images/header-footer/line.svg") no-repeat; }
+.icon-li[_ngcontent-knm-c93]::before { background: url("https://efiling.rd.go.th/rd-efiling-web/assets/images/header-footer/line.svg") no-repeat; }
 
 .icon-ex[_ngcontent-knm-c93] { padding-top: 3px; }
 
-.icon-ex[_ngcontent-knm-c93]::before { background: url("/rd-efiling-web/assets/images/header-footer/explorer.svg") 0px 0px / 100% no-repeat; }
+.icon-ex[_ngcontent-knm-c93]::before { background: url("https://efiling.rd.go.th/rd-efiling-web/assets/images/header-footer/explorer.svg") 0px 0px / 100% no-repeat; }
 
 .icon-ch[_ngcontent-knm-c93] { padding-top: 3px; }
 
-.icon-ch[_ngcontent-knm-c93]::before { background: url("/rd-efiling-web/assets/images/header-footer/chrome.svg") 0px 0px / 100% no-repeat; }
+.icon-ch[_ngcontent-knm-c93]::before { background: url("https://efiling.rd.go.th/rd-efiling-web/assets/images/header-footer/chrome.svg") 0px 0px / 100% no-repeat; }
 
 .icon-ff[_ngcontent-knm-c93] { padding-top: 4px; }
 
-.icon-ff[_ngcontent-knm-c93]::before { background: url("/rd-efiling-web/assets/images/header-footer/Firefox.svg") 0px 0px / 100% no-repeat; }
+.icon-ff[_ngcontent-knm-c93]::before { background: url("https://efiling.rd.go.th/rd-efiling-web/assets/images/header-footer/Firefox.svg") 0px 0px / 100% no-repeat; }
 
 .icon-ed[_ngcontent-knm-c93] { padding-top: 4px; }
 
-.icon-ed[_ngcontent-knm-c93]::before { background: url("/rd-efiling-web/assets/images/header-footer/ed.svg") no-repeat; }
+.icon-ed[_ngcontent-knm-c93]::before { background: url("https://efiling.rd.go.th/rd-efiling-web/assets/images/header-footer/ed.svg") no-repeat; }
 
 .icon-sf[_ngcontent-knm-c93] { padding-top: 4px; }
 
-.icon-sf[_ngcontent-knm-c93]::before { background: url("/rd-efiling-web/assets/images/header-footer/safari.svg") 0px 0px / 100% no-repeat; }
+.icon-sf[_ngcontent-knm-c93]::before { background: url("https://efiling.rd.go.th/rd-efiling-web/assets/images/header-footer/safari.svg") 0px 0px / 100% no-repeat; }
 
 .icon-call[_ngcontent-knm-c93] { padding-top: 2px; }
 
-.icon-call[_ngcontent-knm-c93]::before { background: url("/rd-efiling-web/assets/images/header-footer/ic_call.svg") 0px 0px / 100% no-repeat; }
+.icon-call[_ngcontent-knm-c93]::before { background: url("https://efiling.rd.go.th/rd-efiling-web/assets/images/header-footer/ic_call.svg") 0px 0px / 100% no-repeat; }
 
 .icon-location[_ngcontent-knm-c93] { padding-top: 5px; }
 
-.icon-location[_ngcontent-knm-c93]::before { background: url("/rd-efiling-web/assets/images/header-footer/ic_location.svg") 0px 0px / 100% no-repeat; }
+.icon-location[_ngcontent-knm-c93]::before { background: url("https://efiling.rd.go.th/rd-efiling-web/assets/images/header-footer/ic_location.svg") 0px 0px / 100% no-repeat; }
 
 .icon-dd[_ngcontent-knm-c93], .icon-dd-s1[_ngcontent-knm-c93]::before, .icon-dd-s3[_ngcontent-knm-c93]::before, .icon-dd-s4[_ngcontent-knm-c93]::before, .icon-dd-s6[_ngcontent-knm-c93]::before, .icon-dd-s8[_ngcontent-knm-c93]::before, .icon-dd-s9[_ngcontent-knm-c93]::before { content: ""; display: inline-block; width: 32px; height: 32px; background-size: 100%; }
 
-.icon-dd-s1[_ngcontent-knm-c93]::before { background: url("/rd-efiling-web/assets/images/header-footer/ic_login.svg") 0px 0px / 100% no-repeat; }
+.icon-dd-s1[_ngcontent-knm-c93]::before { background: url("https://efiling.rd.go.th/rd-efiling-web/assets/images/header-footer/ic_login.svg") 0px 0px / 100% no-repeat; }
 
-.icon-dd-s3[_ngcontent-knm-c93]::before { background: url("/rd-efiling-web/assets/images/header-footer/ic_list.svg") 0px 0px / 100% no-repeat; }
+.icon-dd-s3[_ngcontent-knm-c93]::before { background: url("https://efiling.rd.go.th/rd-efiling-web/assets/images/header-footer/ic_list.svg") 0px 0px / 100% no-repeat; }
 
-.icon-dd-s4[_ngcontent-knm-c93]::before { background: url("/rd-efiling-web/assets/images/header-footer/ic_consult.svg") 0px 0px / 100% no-repeat; }
+.icon-dd-s4[_ngcontent-knm-c93]::before { background: url("https://efiling.rd.go.th/rd-efiling-web/assets/images/header-footer/ic_consult.svg") 0px 0px / 100% no-repeat; }
 
-.icon-dd-s6[_ngcontent-knm-c93]::before { background: url("/rd-efiling-web/assets/images/header-footer/ic_copy_writting.svg") 0px 0px / 100% no-repeat; }
+.icon-dd-s6[_ngcontent-knm-c93]::before { background: url("https://efiling.rd.go.th/rd-efiling-web/assets/images/header-footer/ic_copy_writting.svg") 0px 0px / 100% no-repeat; }
 
-.icon-dd-s8[_ngcontent-knm-c93]::before { background: url("/rd-efiling-web/assets/images/header-footer/ic_delay.svg") 0px 0px / 100% no-repeat; }
+.icon-dd-s8[_ngcontent-knm-c93]::before { background: url("https://efiling.rd.go.th/rd-efiling-web/assets/images/header-footer/ic_delay.svg") 0px 0px / 100% no-repeat; }
 
-.icon-dd-s9[_ngcontent-knm-c93]::before { background: url("/rd-efiling-web/assets/images/header-footer/ic_account-management.svg") 0px 0px / 100% no-repeat; }
+.icon-dd-s9[_ngcontent-knm-c93]::before { background: url("https://efiling.rd.go.th/rd-efiling-web/assets/images/header-footer/ic_account-management.svg") 0px 0px / 100% no-repeat; }
 
 .footer[_ngcontent-knm-c93] .container[_ngcontent-knm-c93] { padding: 0px 0px 30px; margin-top: 100px; }
 

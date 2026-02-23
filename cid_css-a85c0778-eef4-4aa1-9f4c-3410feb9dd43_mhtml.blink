@@ -1,0 +1,31 @@
+@charset "utf-8";
+
+.h4[_ngcontent-knm-c16], h4[_ngcontent-knm-c16] { font-size: 34px; letter-spacing: 0.25px; color: rgba(50, 60, 90, 0.87); font-family: PSLKandaExtraPro !important; }
+
+.nav-tax[_ngcontent-knm-c16] { position: fixed; width: 100%; z-index: 5; top: 92px; }
+
+.card-groupp[_ngcontent-knm-c16] { margin-bottom: unset !important; }
+
+.card-groupp-register[_ngcontent-knm-c16] { margin-bottom: 15px !important; }
+
+.fas[_ngcontent-knm-c16] { color: rgb(250, 226, 0); }
+
+[_nghost-knm-c16] { display: block; position: relative; }
+
+.scrollspy-trigger[_ngcontent-knm-c16] { position: absolute; inset: -60px 0px; pointer-events: none; }
+
+.container-fluid[_ngcontent-knm-c16] { max-width: 1170px; }
+
+.nav-tax-item[_ngcontent-knm-c16] { padding: 0.5rem 1rem; font-size: 20px; line-height: 18px; letter-spacing: 0.25px; }
+
+.nav-tax-item[_ngcontent-knm-c16] p[_ngcontent-knm-c16] { color: rgba(50, 60, 90, 0.87); }
+
+.icon[_ngcontent-knm-c16] { margin-bottom: -7px; margin-right: 5px; }
+
+.icon-progress[_ngcontent-knm-c16] img[_ngcontent-knm-c16] { height: 32px; margin-bottom: 4px; }
+
+.icon-progress[_ngcontent-knm-c16] i[_ngcontent-knm-c16] { font-size: 32px; }
+
+.icon-progress[_ngcontent-knm-c16] { margin-bottom: 0px; }
+
+.card-header.bg-transparent.border-bottom-0.pb-4.pt-4[_ngcontent-knm-c16] { margin: 0px 0px -30px; }

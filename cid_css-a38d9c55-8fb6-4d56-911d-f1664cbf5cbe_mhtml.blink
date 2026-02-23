@@ -1,0 +1,11 @@
+@charset "utf-8";
+
+hr[_ngcontent-knm-c77] { display: block; height: 1px; border-width: 1px 0px 0px; border-right-style: initial; border-bottom-style: initial; border-left-style: initial; border-right-color: initial; border-bottom-color: initial; border-left-color: initial; border-image: initial; border-top-style: solid; border-top-color: rgb(226, 226, 226); margin: 1em 0px; padding: 0px; }
+
+.detail-otp[_ngcontent-knm-c77] { color: rgb(71, 176, 63); font-weight: 600; font-size: 17px; }
+
+.padding-zero[_ngcontent-knm-c77] { padding-left: 0px; }
+
+input[_ngcontent-knm-c77]::-webkit-input-placeholder { text-align: left; }
+
+input[_ngcontent-knm-c77]::placeholder { text-align: left; }

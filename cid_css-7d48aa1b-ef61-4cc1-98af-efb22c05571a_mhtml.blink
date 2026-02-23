@@ -1,0 +1,291 @@
+@charset "utf-8";
+
+ef-select-form .header-page-name { margin-top: 30px; font-family: "PSL KandaExtra Pro"; font-style: normal; font-weight: 800; font-size: 40px; line-height: 35px; color: rgb(28, 28, 28); }
+
+ef-select-form .font-expand { color: rgb(120, 120, 120); font-size: 14px; }
+
+ef-select-form .font-value-expand { font-size: 16px; }
+
+ef-select-form .nav-tabs { margin-bottom: 30px; }
+
+ef-select-form .nav-tabs > li { font-family: "PSL KandaExtra Pro"; font-style: normal; font-weight: 800; }
+
+ef-select-form .nav-tabs .tab-content-quote { position: relative; }
+
+ef-select-form .nav-tabs .tab-content-quote .nav-link { background-color: transparent; padding: 10px 15px !important; }
+
+ef-select-form .nav-tabs .tab-content-quote .nav-link .nav-content { padding-left: 0px; padding-right: 0px; color: rgb(120, 120, 120); }
+
+ef-select-form .nav-tabs .tab-content-quote .nav-link .nav-content p { margin-left: 0px; font-size: 28px; line-height: 34px; }
+
+ef-select-form .nav-tabs .tab-content-quote:last-child .nav-link { padding-right: 0px !important; }
+
+ef-select-form .nav-tabs .tab-content-quote:last-child::after { content: ""; width: 2px; height: 26px; background-color: rgb(226, 226, 226); position: absolute; left: 0px; top: 14px; }
+
+ef-select-form .nav-tabs .tab-content-quote.active .nav-link.active { background-color: transparent; }
+
+ef-select-form .nav-tabs .tab-content-quote.active .nav-link.active .nav-content { color: rgb(28, 28, 28); }
+
+ef-select-form .nav-tabs .tab-content-quote.active .nav-link.active .nav-content p { border-bottom: 2px solid rgb(71, 176, 63); }
+
+ef-select-form .tab-content .tab-content-quote .card.card-tab-content { padding: 10px 30px; border: 1px solid rgb(226, 226, 226); border-radius: 10px; font-family: "PSL KandaExtra Pro"; font-size: 30px; }
+
+ef-select-form .tab-content .tab-content-quote .card.card-tab-content .total-record { padding-bottom: 8px; font-size: 30px; line-height: 36px; border-bottom: 1px solid rgb(232, 232, 232); color: rgb(120, 120, 120); }
+
+ef-select-form .tab-content .tab-content-quote .card.card-tab-content .filter-btn-row { padding-top: 20px; }
+
+ef-select-form .tab-content .tab-content-quote .card.card-tab-content .search-form-control { width: 100%; max-width: 360px; position: relative; display: inline-block; }
+
+ef-select-form .tab-content .tab-content-quote .card.card-tab-content .search-form-control .fa-search { padding: 14px 15px 13px 18px; font-size: 15px; color: rgb(176, 176, 176); position: absolute; left: 2px; }
+
+ef-select-form .tab-content .tab-content-quote .card.card-tab-content .search-form-control .input-search { padding: 0.375rem 108px 0.375rem 44px; height: 40px; border-radius: 0.5rem; font-family: Sarabun; font-weight: 300; font-size: 14px; }
+
+ef-select-form .tab-content .tab-content-quote .card.card-tab-content .search-form-control .collapsed { position: absolute; right: 2px; top: 2px; padding: 7px 8px; cursor: pointer; color: rgb(81, 184, 104); font-size: 18px; font-family: "PSL KandaExtra Pro"; }
+
+ef-select-form .tab-content .tab-content-quote .card.card-tab-content .search-form-control .collapsed .fa-angle-down { color: rgb(81, 184, 104); position: relative; top: 3px; }
+
+ef-select-form .tab-content .tab-content-quote .card.card-tab-content .search-form-control .collapsed .fa-angle-up { color: rgb(81, 184, 104); position: relative; top: 3px; }
+
+ef-select-form .tab-content .tab-content-quote .card.card-tab-content .card-body.advanced-search { margin-top: 15px; padding: 30px 28px; background: rgb(247, 247, 247); border: 1px solid rgb(226, 226, 226); border-radius: 10px; }
+
+ef-select-form .tab-content .tab-content-quote .card.card-tab-content .card-body.advanced-search .form-control, ef-select-form .tab-content .tab-content-quote .card.card-tab-content .card-body.advanced-search .ng-dropdown-panel, ef-select-form .tab-content .tab-content-quote .card.card-tab-content .card-body.advanced-search .ng-select .ng-select-container .ng-value-container .ng-placeholder, ef-select-form .tab-content .tab-content-quote .card.card-tab-content .card-body.advanced-search .ng-select .ng-select-container .ng-value-container .ng-value, ef-select-form .tab-content .tab-content-quote .card.card-tab-content .card-body.advanced-search label { font-family: Sarabun; font-weight: 300; font-size: 16px; color: rgb(120, 120, 120); }
+
+ef-select-form .tab-content .tab-content-quote .card.card-tab-content .card-body.advanced-search .form-control, ef-select-form .tab-content .tab-content-quote .card.card-tab-content .card-body.advanced-search .ng-dropdown-panel { color: rgb(28, 28, 28); }
+
+ef-select-form .tab-content .tab-content-quote .card.card-tab-content .card-body.advanced-search .form-control, ef-select-form .tab-content .tab-content-quote .card.card-tab-content .card-body.advanced-search .ng-select .ng-select-container { height: 40px; border-radius: 10px; box-shadow: none; border: 1px solid rgb(226, 226, 226) !important; }
+
+ef-select-form .tab-content .tab-content-quote .card.card-tab-content .card-body.advanced-search .ng-dropdown-panel { border: 1px solid rgb(226, 226, 226) !important; }
+
+ef-select-form .tab-content .tab-content-quote .card.card-tab-content .card-body.root-table { padding-left: 0px; padding-right: 0px; }
+
+ef-select-form .tab-content .tab-content-quote .card.card-tab-content .card-body.root-table .table { border-bottom: none; }
+
+ef-select-form .tab-content .tab-content-quote .card.card-tab-content .card-body.root-table .table .ant-table-thead > tr:last-child > th:last-child::after { content: ""; position: absolute; top: 0px; left: 0px; width: 100%; height: 100%; background-color: rgb(232, 255, 229); border-top-right-radius: 10px; border-bottom-right-radius: 10px; z-index: -1; }
+
+ef-select-form .tab-content .tab-content-quote .card.card-tab-content .card-body.root-table .table .ant-table-thead .th-action { padding-left: 10px; padding-right: 10px; }
+
+ef-select-form .tab-content .tab-content-quote .card.card-tab-content .card-body.root-table .table .ant-table-tbody { padding-bottom: 5px; }
+
+ef-select-form .tab-content .tab-content-quote .card.card-tab-content .card-body.root-table .table .ant-table-tbody .fa-chevron-down, ef-select-form .tab-content .tab-content-quote .card.card-tab-content .card-body.root-table .table .ant-table-tbody .fa-chevron-right { color: rgb(71, 176, 63); }
+
+ef-select-form .tab-content .tab-content-quote .card.card-tab-content .card-body.root-table .table .ant-table-tbody tr.detail-expand { background: rgb(247, 247, 247) !important; }
+
+ef-select-form .tab-content .tab-content-quote .card.card-tab-content .card-body.root-table .table .ant-table-tbody tr.detail-expand .row { margin-bottom: 15px; }
+
+ef-select-form .tab-content .tab-content-quote .card.card-tab-content .card-body.root-table .table .ant-table-tbody tr.detail-expand label { margin-bottom: 5px; color: rgb(120, 120, 120); }
+
+ef-select-form .tab-content .tab-content-quote .card.card-tab-content .card-body.root-table .table .ant-table-tbody .td-action { padding-left: 10px; padding-right: 10px; text-align: center; }
+
+ef-select-form .tab-content .tab-content-quote .card.card-tab-content .card-body.root-table .table .ant-table-tbody .td-action button + button { margin-left: 15px; }
+
+ef-select-form .tab-content .tab-content-quote .card.card-tab-content .card-body.root-table .table .ant-table-tbody .td-action button.od-FieldRenderer-dot { padding: 6px 13px; border: 1px solid rgb(71, 176, 63); border-radius: 10px; color: rgb(71, 176, 63); display: inline-block; outline: 0px; }
+
+ef-select-form .tab-content .tab-content-quote .card.card-tab-content .card-body.root-table .table .ant-table-tbody .td-action button.od-FieldRenderer-dot:active, ef-select-form .tab-content .tab-content-quote .card.card-tab-content .card-body.root-table .table .ant-table-tbody .td-action button.od-FieldRenderer-dot:hover { background-color: rgba(71, 176, 63, 0.3); }
+
+ef-select-form .tab-content .tab-content-quote .card.card-tab-content .card-body.root-table .table .ant-table-tbody .td-action .dropdown-menu.show { margin-top: 5px; width: auto; min-width: 40px; position: relative; display: inline-block; float: none; border-radius: 10px; overflow: hidden; right: 0px !important; }
+
+ef-select-form .tab-content .tab-content-quote .card.card-tab-content .card-body.root-table .table .ant-table-tbody .td-action .dropdown-menu.show.dd-action-pay { transform: translateX(20px) !important; }
+
+ef-select-form .tab-content .tab-content-quote .card.card-tab-content .card-body.root-table .table .ant-table-tbody .td-action .dropdown-menu.show > li { border-bottom: 1px solid rgb(232, 232, 232); }
+
+ef-select-form .tab-content .tab-content-quote .card.card-tab-content .card-body.root-table .table .ant-table-tbody .td-action .dropdown-menu.show > li:last-child { border-bottom: none; }
+
+ef-select-form .tab-content .tab-content-quote .card.card-tab-content .card-body.root-table .table .ant-table-tbody .td-action .dropdown-menu.show > li > a { height: 40px; font-family: "PSL KandaExtra Pro"; font-weight: 800; font-size: 26px; line-height: 22px; text-align: center; color: rgb(71, 176, 63); }
+
+ef-select-form .ant-pagination { font-family: Sarabun; font-weight: 300; font-size: 16px; color: rgb(120, 120, 120); }
+
+ef-select-form .sum-cover { margin-bottom: 30px; padding: 35px 30px; font-family: Sarabun; font-weight: 300; font-size: 16px; line-height: 21px; color: rgb(120, 120, 120); }
+
+ef-select-form .sum-cover .sum-value { margin-top: 5px; font-size: 20px; line-height: 26px; color: rgb(28, 28, 28); }
+
+ef-select-form .footer-remark { font-family: Sarabun; font-weight: 600; font-size: 17px; line-height: 22px; }
+
+ef-select-form .footer-remark ol, ef-select-form .footer-remark ul { padding-left: 17px; line-height: 28px; color: rgb(71, 176, 63); }
+
+ef-select-form .footer-remark ol { margin-top: 5px; }
+
+ef-select-form .footer-remark ul { list-style: revert; }
+
+ef-select-form .btn { min-width: 160px; height: 40px; margin-left: 15px; display: inline-block; position: relative; border-radius: 10px; vertical-align: top; font-family: PSLKandaExtraPro; font-size: 26px; line-height: 24px; text-align: center; letter-spacing: 1px; }
+
+ef-select-form .btn.btn-secondary-new { background-color: rgb(255, 255, 255); border: 1px solid rgb(71, 176, 63); color: rgb(71, 176, 63); }
+
+ef-select-form .btn.btn-secondary-new:active, ef-select-form .btn.btn-secondary-new:hover { background-color: rgba(71, 176, 63, 0.3); }
+
+ef-select-form .btn.btn-primary-new { background-color: rgb(71, 176, 63); border: 1px solid rgb(71, 176, 63); color: rgb(255, 255, 255); }
+
+ef-select-form .btn.btn-primary-new:hover { background-color: rgb(60, 150, 54); }
+
+ef-select-form .btn.btn-primary-new:active { background-color: rgb(50, 123, 44); }
+
+ef-select-form .btn.btn-default-new { background-color: rgb(226, 226, 226); border: 1px solid rgb(226, 226, 226); color: rgb(120, 120, 120); }
+
+ef-select-form .btn.btn-default-new:active, ef-select-form .btn.btn-default-new:hover { background-color: rgb(210, 210, 210); }
+
+ef-select-form .custom-control-input:checked ~ .custom-control-label::before { border-color: rgb(68, 181, 68); background-color: rgb(68, 181, 68); }
+
+ef-select-form .m-left--15 { margin-left: -15px; }
+
+ef-select-form .m-right--15 { margin-right: -15px; }
+
+ef-select-form .f-green { color: rgb(71, 176, 63); }
+
+ef-select-form typeahead-container.dropdown { background: rgb(255, 255, 255) !important; }
+
+ef-select-form typeahead-container.dropdown .dropdown-item { padding: 10px 24px; font-family: SarabunLight; }
+
+ef-select-form typeahead-container.dropdown .dropdown-item.active { background-color: rgb(71, 176, 63); }
+
+ef-select-form .input-icon-group { position: absolute; line-height: 0; top: 0.7rem; right: 1.65rem; width: 21px; height: 13px; cursor: pointer; display: flex; }
+
+ef-select-form .input-icon-group.append { right: 10.5rem; top: 1rem; }
+
+ef-select-form .input-icon-group .icon { padding-right: 0.25rem; }
+
+ef-select-form .ng-select { width: 100%; }
+
+ef-select-form .ng-select .ng-select-container .ng-value-container .ng-placeholder, ef-select-form .ng-select .ng-select-container .ng-value-container .ng-value { font-family: Sarabun; font-weight: 300; font-size: 16px; color: rgb(120, 120, 120); }
+
+ef-select-form .form-control, ef-select-form .ng-dropdown-panel { color: rgb(28, 28, 28); }
+
+ef-select-form .form-control, ef-select-form .ng-select .ng-select-container { height: 40px; border-radius: 10px; box-shadow: none; border: 1px solid rgb(226, 226, 226) !important; }
+
+ef-select-form .ng-dropdown-panel { border: 1px solid rgb(226, 226, 226) !important; }
+
+ef-select-form .tabset-justify-content-center .nav-tabs { -webkit-box-pack: center; justify-content: center; }
+
+ef-select-form .expand-p15 { padding-left: 15px; padding-right: 15px; }
+
+ef-select-form .btn-disabled { color: rgb(105, 103, 103); }
+
+ef-select-form .btn-status-b, ef-select-form .btn-status-g, ef-select-form .btn-status-gy, ef-select-form .btn-status-o, ef-select-form .btn-status-r { margin: 0px; border-radius: 0px; padding: 0px; font-size: 14px; }
+
+ef-select-form .btn-status-g { background: 0px 0px; color: rgb(81, 184, 104); }
+
+ef-select-form .btn-status-o { background: 0px 0px; color: rgb(240, 158, 69); }
+
+ef-select-form .btn-status-b { background: 0px 0px; color: rgb(81, 192, 219); }
+
+ef-select-form .btn-status-gy { background: 0px 0px; color: rgb(105, 103, 103); }
+
+ef-select-form .btn-status-r { background: 0px 0px; color: rgb(210, 63, 64); }
+
+ef-select-form .notice-epayment { cursor: pointer; }
+
+ef-select-form .popover { background-color: rgb(232, 255, 229); border-color: rgb(71, 176, 63); }
+
+ef-select-form .popover.top > .arrow { border-top-color: rgb(71, 176, 63); }
+
+ef-select-form .popover.top > .arrow::before { border-top-color: rgb(71, 176, 63); }
+
+ef-select-form .popover.top > .arrow::after { border-top-color: rgb(232, 255, 229); }
+
+ef-select-form .popover.left > .arrow { border-left-color: rgb(71, 176, 63); }
+
+ef-select-form .popover.left > .arrow::before { border-left-color: rgb(71, 176, 63); }
+
+ef-select-form .popover.left > .arrow::after { border-left-color: rgb(232, 255, 229); }
+
+ef-select-form .popover.right > .arrow { border-right-color: rgb(71, 176, 63); }
+
+ef-select-form .popover.right > .arrow::before { border-right-color: rgb(71, 176, 63); }
+
+ef-select-form .popover.right > .arrow::after { border-right-color: rgb(232, 255, 229); }
+
+ef-select-form .popover.bottom > .arrow { border-bottom-color: rgb(71, 176, 63); }
+
+ef-select-form .popover.bottom > .arrow::before { border-bottom-color: rgb(71, 176, 63); }
+
+ef-select-form .popover.bottom > .arrow::after { border-bottom-color: rgb(232, 255, 229); }
+
+.modal-select-form { border: none; }
+
+.modal-select-form .ng-select { width: 100%; font-family: Sarabun; }
+
+.modal-select-form .ng-select .ng-select-container .ng-value-container .ng-placeholder { font-family: Sarabun; }
+
+.modal-select-form .modal-header { padding: 8px 30px; border-bottom: 0px; position: relative; }
+
+.modal-select-form .modal-header::after { content: ""; width: calc(100% - 60px); height: 1px; background-color: rgb(232, 232, 232); display: inline-block; position: absolute; left: 30px; bottom: 0px; }
+
+.modal-select-form .modal-header .modal-title { font-family: "PSL KandaExtra Pro"; font-weight: 800; font-size: 30px; line-height: 36px; color: rgb(71, 176, 63); }
+
+.modal-select-form .modal-body { padding: 20px 30px 10px; }
+
+.modal-select-form .modal-body span.required { color: rgb(245, 77, 65); }
+
+.modal-select-form .modal-body .form-inline label { width: 100%; display: block; }
+
+.modal-select-form .modal-body .form-group { margin-bottom: 1rem; }
+
+.modal-select-form .modal-body .form-control, .modal-select-form .modal-body label { font-family: Sarabun; font-weight: 300; font-size: 16px; color: rgb(120, 120, 120); }
+
+.modal-select-form .modal-body .form-control { width: 100%; height: 40px; border-radius: 10px; box-shadow: none; color: rgb(28, 28, 28); border: 1px solid rgb(226, 226, 226) !important; }
+
+.modal-select-form .modal-body .sort-container { margin-top: 15px; vertical-align: top; border: none; color: rgb(28, 28, 28); text-align: center; font-family: SarabunLight; font-size: 18px; font-style: normal; font-weight: 600; }
+
+.modal-select-form .modal-body .sort-container .sort-header { display: flex; }
+
+.modal-select-form .modal-body .sort-container .sort-header .sh, .modal-select-form .modal-body .sort-container .sort-header .sh-l, .modal-select-form .modal-body .sort-container .sort-header .sh-r { background: rgb(232, 255, 229); }
+
+.modal-select-form .modal-body .sort-container .sort-header .sh { padding: 20px 15px; -webkit-box-flex: 1; flex-grow: 1; flex-basis: 0px; }
+
+.modal-select-form .modal-body .sort-container .sort-header .sh-l { width: 50px; border-top-left-radius: 10px; border-bottom-left-radius: 10px; }
+
+.modal-select-form .modal-body .sort-container .sort-header .sh-r { width: 50px; border-top-right-radius: 10px; border-bottom-right-radius: 10px; }
+
+.modal-select-form .modal-body .sort-container .sort-body bs-sortable { width: 100%; padding: 10px; }
+
+.modal-select-form .modal-body .sort-container .sort-body bs-sortable .sort-item { display: flex; border-bottom: 1px solid rgb(232, 232, 232); }
+
+.modal-select-form .modal-body .sort-container .sort-body bs-sortable .sort-item .sb { padding: 20px 15px; font-family: SarabunLight; font-size: 18px; font-style: normal; font-weight: 600; flex-basis: 0px; -webkit-box-flex: 1 !important; flex-grow: 1 !important; }
+
+.modal-select-form .modal-body .sort-container .sort-body bs-sortable .sort-item .sb-l { display: flex; width: 50px; }
+
+.modal-select-form .modal-body .sort-container .sort-body bs-sortable .sort-item .sb-r { display: flex; width: 50px; }
+
+.modal-select-form .modal-body .sort-container .sort-body bs-sortable .sort-item .fa-grip-lines { color: rgb(120, 120, 120); cursor: grab; }
+
+.modal-select-form .modal-body .sort-container .sort-body bs-sortable .sort-item .fa-grip-lines:active { cursor: grabbing; }
+
+.modal-select-form .modal-body .sort-container .sort-body bs-sortable .sort-item .fa-trash-alt { color: rgb(245, 77, 65); cursor: pointer; }
+
+.modal-select-form .modal-body .sort-container .sort-body bs-sortable .sort-item .ng-select .ng-select-container { height: 40px; }
+
+.modal-select-form .modal-body .sort-container .sort-body bs-sortable .sort-item .ng-select .ng-dropdown-panel .ng-dropdown-panel-items, .modal-select-form .modal-body .sort-container .sort-body bs-sortable .sort-item .ng-select .ng-select-container .ng-value-container .ng-placeholder, .modal-select-form .modal-body .sort-container .sort-body bs-sortable .sort-item .ng-select .ng-select-container .ng-value-container .ng-value { font-style: normal; font-weight: 300; font-size: 18px; text-align: left; font-family: Sarabun !important; }
+
+.modal-select-form .modal-footer { border-top: 0px; }
+
+.modal-select-form .close { outline: 0px; }
+
+.modal-select-form .btn { min-width: 160px; height: 40px; margin-left: 15px; display: inline-block; position: relative; border-radius: 10px; vertical-align: top; font-family: PSLKandaExtraPro; font-size: 26px; line-height: 24px; text-align: center; letter-spacing: 1px; }
+
+.modal-select-form .btn.btn-primary-new { background-color: rgb(71, 176, 63); border: 1px solid rgb(71, 176, 63); color: rgb(255, 255, 255); }
+
+.modal-select-form .btn.btn-primary-new:hover { background-color: rgb(60, 150, 54); }
+
+.modal-select-form .btn.btn-primary-new:active { background-color: rgb(50, 123, 44); }
+
+.modal-select-form .btn.btn-default-new { background-color: rgb(226, 226, 226); border: 1px solid rgb(226, 226, 226); color: rgb(120, 120, 120); }
+
+.modal-select-form .btn.btn-default-new:active, .modal-select-form .btn.btn-default-new:hover { background-color: rgb(210, 210, 210); }
+
+.modal-select-form .modal-font p { font-family: SarabunLight; font-size: 20px; line-height: 26px; font-weight: 300; }
+
+.modal-select-form .modal-font .btn { min-width: 160px; height: 40px; margin-left: 15px; display: inline-block; position: relative; border-radius: 10px; vertical-align: top; font-family: PSLKandaExtraPro; font-size: 26px; line-height: 24px; text-align: center; letter-spacing: 1px; }
+
+.modal-select-form .modal-font .btn.btn-primary-new { background-color: rgb(71, 176, 63); border: 1px solid rgb(71, 176, 63); color: rgb(255, 255, 255); }
+
+.modal-select-form .modal-font .btn.btn-primary-new:hover { background-color: rgb(60, 150, 54); }
+
+.modal-select-form .modal-font .btn.btn-primary-new:active { background-color: rgb(50, 123, 44); }
+
+.modal-select-form .modal-font .btn.btn-default-new { background-color: rgb(226, 226, 226); border: 1px solid rgb(226, 226, 226); color: rgb(120, 120, 120); }
+
+.modal-select-form .modal-font .btn.btn-default-new:active, .modal-select-form .modal-font .btn.btn-default-new:hover { background-color: rgb(210, 210, 210); }
+
+tabset.nav-hidden .nav-tabs { display: none; }
+
+.t-checkall .ant-table-header-column { padding-right: 0.5rem !important; }
+
+.t-checkall .ant-checkbox-inner { border: 1px solid rgb(173, 181, 189); border-radius: 4px; }

@@ -1,0 +1,11 @@
+@charset "utf-8";
+
+.waiting-payment[_ngcontent-knm-c85] { color: rgb(240, 158, 69); }
+
+.overdue[_ngcontent-knm-c85] { color: rgb(210, 63, 64); }
+
+.mt-20[_ngcontent-knm-c85] { margin-top: 20px; }
+
+.remark[_ngcontent-knm-c85] { color: rgb(63, 119, 210); }
+
+.remark-advance-search[_ngcontent-knm-c85] { font-size: 14px; font-family: Sarabun; }

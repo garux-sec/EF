@@ -1,0 +1,297 @@
+@charset "utf-8";
+
+.container-boby[_ngcontent-knm-c84] { position: relative; width: 100%; padding-right: 128px; padding-left: 128px; }
+
+.button-person[_ngcontent-knm-c84] { font-family: "PSL KandaExtra Pro"; font-size: 28px; border: none; outline-style: none; -webkit-box-align: center; align-items: center; position: relative; background: rgb(247, 247, 247); color: rgb(120, 120, 120); line-height: 34px; margin-bottom: 34px; padding: 0px 0px 6px; }
+
+.button-person-active[_ngcontent-knm-c84] { padding: 0px 0px 4px; color: rgb(28, 28, 28); border-bottom: 2px solid rgb(71, 176, 63); }
+
+.person[_ngcontent-knm-c84] { position: relative; border: 0px; padding: 0px 6px 6px; outline-style: none; }
+
+.font-p[_ngcontent-knm-c84] { font-family: "PSL KandaExtra Pro"; font-style: normal; font-weight: 800; font-size: 40px; line-height: 35px; color: rgb(28, 28, 28); margin-bottom: 23px; }
+
+ef-filing-status .card { position: relative; display: flex; -webkit-box-orient: vertical; -webkit-box-direction: normal; flex-direction: column; min-width: 0px; overflow-wrap: break-word; background-color: rgb(255, 255, 255); background-clip: border-box; border: 1px solid rgba(0, 0, 0, 0.125); border-radius: 10px; }
+
+ef-filing-status .card-body-status { -webkit-box-flex: 1; flex: 1 1 auto; min-height: 1px; padding: 1.25rem; }
+
+ef-filing-status .font-p { font-family: "PSL KandaExtra Pro"; font-style: normal; font-weight: 800; font-size: 30px; line-height: 36px; color: rgb(71, 176, 63); padding-left: 0px; }
+
+ef-filing-status .head-line { border-bottom: 1px solid rgb(232, 232, 232); padding-bottom: 10px; margin: 0px 20px; }
+
+ef-filing-status .align-items-center { -webkit-box-align: center !important; align-items: center !important; }
+
+ef-filing-status .m-search { margin-top: 13px; }
+
+ef-filing-status .p-search { padding-left: 20px; padding-right: 20px; }
+
+ef-filing-status .p-search .form-control::-webkit-input-placeholder { font-size: 12px; line-height: 2em; }
+
+ef-filing-status .box-search { }
+
+ef-filing-status .input-search { height: 40px; border: 1px solid rgb(226, 226, 226); box-sizing: border-box; border-radius: 10px; }
+
+ef-filing-status typeahead-container.dropdown { background: rgb(255, 255, 255) !important; }
+
+ef-filing-status .collapsed { position: absolute; right: 15px; top: 0px; padding: 8px 10px; cursor: pointer; color: rgb(81, 184, 104); font-size: 18px; font-family: "PSL KandaExtra Pro"; }
+
+ef-filing-status .collapsed .fa-angle-down { color: rgb(81, 184, 104); position: relative; top: 3px; }
+
+ef-filing-status .collapsed .fa-angle-up { color: rgb(81, 184, 104); position: relative; top: 3px; }
+
+ef-filing-status .search { position: absolute; padding: 0px; margin-top: 12.25px; margin-left: 20.25px; margin-right: 13.25px; color: rgb(176, 176, 176); }
+
+ef-filing-status .input-search-font { font-family: Sarabun; font-style: normal; font-weight: 300; font-size: 18px; line-height: 23px; display: flex; -webkit-box-align: center; align-items: center; text-align: left; color: rgb(176, 176, 176); padding: 4px 120px 8px 45px; }
+
+ef-filing-status .box-collapseExample { padding-left: 20px; padding-right: 20px; }
+
+ef-filing-status .box-collapseExample .ng-dropdown-panel .ng-dropdown-panel-items { max-height: 300px; }
+
+ef-filing-status .button-form-group { background: rgb(255, 255, 255); border: 1px solid rgb(226, 226, 226); box-sizing: border-box; border-radius: 10px; }
+
+ef-filing-status .m-box { margin-top: 7px; }
+
+ef-filing-status .m-box-font { font-family: Sarabun; font-style: normal; font-weight: 300; font-size: 16px; line-height: 21px; display: flex; -webkit-box-align: center; align-items: center; color: rgb(120, 120, 120); }
+
+ef-filing-status .form-group { margin-bottom: 21px; }
+
+ef-filing-status .form-group .font-filing-status .ng-select.ng-select-single .ng-select-container .ng-value-container .ng-value { font-size: 11px; }
+
+ef-filing-status .input-advanced-search .ng-select .ng-select-container, ef-filing-status .input-advanced-search .ng-select.ng-select-focused:not(.ng-select-opened) > .ng-select-container { background: rgb(255, 255, 255); border-radius: 10px; height: 35px; border: 1px solid rgb(226, 226, 226) !important; }
+
+ef-filing-status .input-advanced-search .form-control { background: rgb(255, 255, 255); border: 1px solid rgb(226, 226, 226); border-radius: 10px; height: 35px; font-size: 16px; line-height: 19px; }
+
+ef-filing-status .input-advanced-search input[bsdatepicker].form-control { padding-right: 30px; background-image: url("icon-calendar-new.79f8d39361a016fbd348.svg") !important; background-size: 18px 18px !important; background-position: right 10px center !important; background-repeat: no-repeat !important; appearance: none !important; }
+
+ef-filing-status .ng-select { border-radius: 10px; color: rgb(112, 111, 114); font-size: 16px; line-height: 19px; background: rgb(255, 255, 255); }
+
+ef-filing-status .button-box { font-family: "PSL KandaExtra Pro"; font-style: normal; font-weight: 800; font-size: 26px; line-height: 31px; text-align: center; display: inline-block; border-radius: 10px; width: 160px; height: 40px; border: none; }
+
+ef-filing-status .button-box-clean { color: rgb(120, 120, 120); background-color: rgb(226, 226, 226); }
+
+ef-filing-status .button-box-search { color: rgb(255, 255, 255); background-color: rgb(71, 176, 63); }
+
+ef-filing-status .button-box-search:hover { color: rgb(255, 255, 255); background-color: rgb(72, 190, 63); }
+
+ef-filing-status .button-box-search:active { color: rgb(255, 255, 255); background-color: rgb(71, 176, 63); }
+
+ef-filing-status .button-box-close-modal { color: rgb(255, 255, 255); background-color: rgb(71, 176, 63); }
+
+ef-filing-status .button-box-close-modal:hover { color: rgb(255, 255, 255); background-color: rgb(72, 190, 63); }
+
+ef-filing-status .button-box-close-modal:active { color: rgb(255, 255, 255); background-color: rgb(71, 176, 63); }
+
+ef-filing-status .button-box-clean-dowload { color: rgb(71, 176, 63); background-color: rgb(255, 255, 255); border: 1px solid rgb(71, 176, 63); }
+
+ef-filing-status .button-box-clean-dowload:disabled { background-color: rgb(226, 226, 226); color: rgb(120, 120, 120); border-color: rgb(226, 226, 226); }
+
+ef-filing-status .button-box-clean-dowload:active, ef-filing-status .button-box-clean-dowload:hover { color: rgb(71, 176, 63); background-color: rgba(71, 176, 63, 0.3); }
+
+ef-filing-status .font-modal-loading { font-family: SarabunLight; text-align: center; }
+
+ef-filing-status .border-radius-modal-left { border-top-left-radius: 10px; border-bottom-left-radius: 10px; }
+
+ef-filing-status .border-radius-modal-right { border-top-right-radius: 10px; border-bottom-right-radius: 10px; }
+
+ef-filing-status .h-table { height: 60px; }
+
+ef-filing-status .ant-table-body { position: relative; background: rgb(255, 255, 255); }
+
+ef-filing-status .font-table { font-family: Sarabun; font-style: normal; font-size: 18px; display: flex; -webkit-box-align: center; align-items: center; color: rgb(28, 28, 28); }
+
+ef-filing-status .font-table-body { font-family: Sarabun; font-style: normal; font-size: 18px; color: rgb(28, 28, 28); }
+
+ef-filing-status .ant-table-thead > tr > th, ef-filing-status .table thead th { vertical-align: top; border: none; background: rgb(232, 255, 229); color: rgb(28, 28, 28); font-family: Sarabun; font-size: 18px; font-style: normal; font-weight: 600; }
+
+ef-filing-status .table-th-left { text-align: left; }
+
+ef-filing-status .th1 { width: 5%; }
+
+ef-filing-status .th2 { width: 7%; }
+
+ef-filing-status .th3 { width: 10%; }
+
+ef-filing-status .th4 { width: 15%; text-align: left; }
+
+ef-filing-status .th5 { width: 17%; text-align: left; }
+
+ef-filing-status .th6 { width: 200px; }
+
+ef-filing-status .th7 { width: 250px; }
+
+ef-filing-status .th-action { padding-left: 10px; padding-right: 10px; }
+
+ef-filing-status .btn-status-g-body { height: 61px; border-radius: 10px; }
+
+ef-filing-status .btn-status-o-body { height: 40px; border-radius: 10px; }
+
+ef-filing-status .btn-status-b-body { height: 61px; border-radius: 10px; }
+
+ef-filing-status .btn-status-gy-body { height: 40px; border-radius: 10px; }
+
+ef-filing-status .btn-status-r-body { height: 40px; border-radius: 10px; }
+
+ef-filing-status .btn-status-font { font-family: Sarabun; font-style: normal; font-weight: 600; font-size: 16px; line-height: 21px; }
+
+ef-filing-status .btn-status-g-font { padding: 0px; }
+
+ef-filing-status .btn-status-o-font { padding: 0px; }
+
+ef-filing-status .btn-status-b-font { padding: 0px; }
+
+ef-filing-status .btn-status-gy-font { padding: 0px; }
+
+ef-filing-status .btn-status-r-font { padding: 0px; }
+
+ef-filing-status .font-expand { color: rgb(120, 120, 120); font-size: 14px; }
+
+ef-filing-status .font-value-expand { font-size: 16px; }
+
+ef-filing-status .td-action { padding-left: 10px; padding-right: 10px; text-align: center; }
+
+ef-filing-status .td-action button + button { margin-left: 15px; }
+
+ef-filing-status .td-action button.od-FieldRenderer-dot { padding: 6px 13px; border: 1px solid rgb(71, 176, 63); border-radius: 10px; color: rgb(71, 176, 63); display: inline-block; outline: 0px; }
+
+ef-filing-status .td-action button.od-FieldRenderer-dot:active, ef-filing-status .td-action button.od-FieldRenderer-dot:hover { background-color: rgba(71, 176, 63, 0.3); }
+
+ef-filing-status .td-action .dropdown-menu.show { margin-top: 5px; margin-left: 10px; margin-right: 10px; width: auto; min-width: 40px; position: relative; display: inline-block; float: none; border-radius: 10px; overflow: hidden; right: 0px !important; }
+
+ef-filing-status .td-action .dropdown-menu.show.dd-action-pay { transform: translateX(20px) !important; }
+
+ef-filing-status .td-action .dropdown-menu.show > li { border-bottom: 1px solid rgb(232, 232, 232); }
+
+ef-filing-status .td-action .dropdown-menu.show > li:last-child { border-bottom: none; }
+
+ef-filing-status .td-action .dropdown-menu.show > li > a { height: 40px; font-family: "PSL KandaExtra Pro"; font-weight: 800; font-size: 26px; line-height: 22px; text-align: center; color: rgb(71, 176, 63); }
+
+ef-filing-status .td-action .dropdown-menu.show > li > a.disabled { pointer-events: none !important; opacity: 0.6 !important; }
+
+ef-filing-status .ant-pagination-total-text { position: absolute; font-family: Sarabun; font-style: normal; font-weight: 300; font-size: 16px; color: rgb(120, 120, 120); left: 0px; width: 50%; display: inline-block; height: 32px; margin-right: 8px; line-height: 30px; vertical-align: middle; }
+
+ef-filing-status .footer-remark { font-family: Sarabun; font-weight: 600; font-size: 17px; line-height: 22px; }
+
+ef-filing-status .footer-remark ol, ef-filing-status .footer-remark ul { padding-left: 17px; line-height: 28px; color: rgb(71, 176, 63); }
+
+ef-filing-status .footer-remark ol { margin-top: 5px; }
+
+ef-filing-status .footer-remark ul { list-style: revert; }
+
+ef-filing-status .modal-title { font-family: SarabunLight; font-size: 20px; }
+
+ef-filing-status .btn-cancel { min-width: 160px; display: inline-block; background-color: rgb(226, 226, 226); border-radius: 10px; font-family: PSLKandaExtraPro; font-size: 26px; line-height: 31px; text-align: center; color: rgb(120, 120, 120); letter-spacing: 1px; }
+
+ef-filing-status .btn.btn-primary-new { position: relative; min-width: 160px; display: inline-block; background-repeat: no-repeat; background-color: rgb(71, 176, 63); border: none; border-radius: 10px; font-family: PSLKandaExtraPro; font-size: 26px; line-height: 31px; text-align: center; color: rgb(255, 255, 255); letter-spacing: 1px; }
+
+ef-filing-status .tableFooter { font-family: Sarabun; font-style: normal; font-weight: 600; font-size: 16px; line-height: 21px; display: flex; -webkit-box-align: center; align-items: center; color: rgb(120, 120, 120); padding: 0px; }
+
+ef-filing-status .form-status .ant-table-footer { margin-top: 11px; position: relative; padding: 0px; background: rgb(250, 250, 250); border-top: none; }
+
+ef-filing-status .form-status .ant-table-footer::before { content: none; }
+
+ef-filing-status .form-status .ant-table-footer .tableFooters { background-color: rgb(255, 255, 255); font-family: Sarabun; font-style: normal; font-weight: 600; font-size: 16px; line-height: 21px; display: flex; -webkit-box-align: center; align-items: center; color: rgb(71, 176, 63); padding: 0px; }
+
+ef-filing-status .btn-status-b, ef-filing-status .btn-status-g, ef-filing-status .btn-status-gy, ef-filing-status .btn-status-o, ef-filing-status .btn-status-r { margin: 0px; border-radius: 0px; padding: 0px; font-size: 14px; }
+
+ef-filing-status .btn-status-g { background: 0px 0px; color: rgb(81, 184, 104); }
+
+ef-filing-status .btn-status-g .btn-status-font { padding: 0px; }
+
+ef-filing-status .btn-status-g .btn-status-body { height: 61px; border-radius: 10px; }
+
+ef-filing-status .btn-status-o { background: 0px 0px; color: rgb(240, 158, 69); }
+
+ef-filing-status .btn-status-o .btn-status-font { padding: 0px; }
+
+ef-filing-status .btn-status-o .btn-status-body { height: 40px; border-radius: 10px; }
+
+ef-filing-status .btn-status-b { background: 0px 0px; color: rgb(81, 192, 219); }
+
+ef-filing-status .btn-status-b .btn-status-font { padding: 0px; }
+
+ef-filing-status .btn-status-b .btn-status-body { height: 61px; border-radius: 10px; }
+
+ef-filing-status .btn-status-gy { background: 0px 0px; color: rgb(105, 103, 103); }
+
+ef-filing-status .btn-status-gy .btn-status-font { padding: 0px; }
+
+ef-filing-status .btn-status-gy .btn-status-body { height: 40px; border-radius: 10px; }
+
+ef-filing-status .btn-status-r { background: 0px 0px; color: rgb(210, 63, 64); }
+
+ef-filing-status .btn-status-r .btn-status-font { padding: 0px; }
+
+ef-filing-status .btn-status-r .btn-status-body { height: 40px; border-radius: 10px; }
+
+ef-filing-status .table-JP-NP { display: flex; min-height: 68px; }
+
+ef-filing-status .notice-epayment { cursor: pointer; }
+
+ef-filing-status .popover { background-color: rgb(232, 255, 229); border-color: rgb(71, 176, 63); width: max-content; }
+
+ef-filing-status .popover.top > .arrow { border-top-color: rgb(71, 176, 63); }
+
+ef-filing-status .popover.top > .arrow::before { border-top-color: rgb(71, 176, 63); }
+
+ef-filing-status .popover.top > .arrow::after { border-top-color: rgb(232, 255, 229); }
+
+ef-filing-status .popover.left > .arrow { border-left-color: rgb(71, 176, 63); }
+
+ef-filing-status .popover.left > .arrow::before { border-left-color: rgb(71, 176, 63); }
+
+ef-filing-status .popover.left > .arrow::after { border-left-color: rgb(232, 255, 229); }
+
+ef-filing-status .popover.right > .arrow { border-right-color: rgb(71, 176, 63); }
+
+ef-filing-status .popover.right > .arrow::before { border-right-color: rgb(71, 176, 63); }
+
+ef-filing-status .popover.right > .arrow::after { border-right-color: rgb(232, 255, 229); }
+
+ef-filing-status .popover.bottom > .arrow { border-bottom-color: rgb(71, 176, 63); }
+
+ef-filing-status .popover.bottom > .arrow::before { border-bottom-color: rgb(71, 176, 63); }
+
+ef-filing-status .popover.bottom > .arrow::after { border-bottom-color: rgb(232, 255, 229); }
+
+.modal-filing-status { border: none; }
+
+.modal-filing-status .modal-header { padding: 8px 30px; border-bottom: 0px; position: relative; }
+
+.modal-filing-status .modal-header::after { content: ""; width: calc(100% - 60px); height: 1px; background-color: rgb(232, 232, 232); display: inline-block; position: absolute; left: 30px; bottom: 0px; }
+
+.modal-filing-status .modal-header .modal-title { font-family: "PSL KandaExtra Pro"; font-weight: 800; font-size: 30px; line-height: 36px; color: rgb(71, 176, 63); }
+
+.modal-filing-status .modal-body span.required { color: rgb(245, 77, 65); }
+
+.modal-filing-status .modal-body .form-inline label { width: 100%; display: block; }
+
+.modal-filing-status .modal-body .form-group { margin-bottom: 1rem; }
+
+.modal-filing-status .modal-body .form-control, .modal-filing-status .modal-body label { font-family: Sarabun; font-weight: 300; font-size: 16px; color: rgb(120, 120, 120); }
+
+.modal-filing-status .modal-body .form-control { width: 100%; height: 40px; border-radius: 10px; box-shadow: none; color: rgb(28, 28, 28); border: 1px solid rgb(226, 226, 226) !important; }
+
+.modal-filing-status .modal-footer { border-top: 0px; }
+
+.modal-filing-status .close { outline: 0px; }
+
+.modal-filing-status .modal-content { position: relative; display: flex; -webkit-box-orient: vertical; -webkit-box-direction: normal; flex-direction: column; width: 100%; pointer-events: auto; background-color: rgb(255, 255, 255); background-clip: padding-box; border: 1px solid rgba(0, 0, 0, 0.2); border-radius: 10px; outline: 0px; }
+
+.modal-filing-status .modal-content .btn { border-radius: 10px; min-width: 150px; border: none; font-size: 16px; }
+
+.modal-filing-status .modal-font p { font-family: SarabunLight; font-size: 20px; line-height: 26px; font-weight: 300; }
+
+.modal-filing-status .modal-font .btn { min-width: 160px; height: 40px; margin-left: 15px; display: inline-block; position: relative; border-radius: 10px; vertical-align: top; font-family: PSLKandaExtraPro; font-size: 26px; line-height: 24px; text-align: center; letter-spacing: 1px; }
+
+.modal-filing-status .modal-font .btn.btn-primary-new { background-color: rgb(71, 176, 63); border: 1px solid rgb(71, 176, 63); color: rgb(255, 255, 255); }
+
+.modal-filing-status .modal-font .btn.btn-primary-new:hover { background-color: rgb(60, 150, 54); }
+
+.modal-filing-status .modal-font .btn.btn-primary-new:active { background-color: rgb(50, 123, 44); }
+
+.modal-filing-status .modal-font .btn.btn-default-new { background-color: rgb(226, 226, 226); border: 1px solid rgb(226, 226, 226); color: rgb(120, 120, 120); }
+
+.modal-filing-status .modal-font .btn.btn-default-new:active, .modal-filing-status .modal-font .btn.btn-default-new:hover { background-color: rgb(210, 210, 210); }
+
+.modal-download .ng-placeholder { width: 100%; text-align: center; }
+
+.modal-download .ng-value { width: 100%; }

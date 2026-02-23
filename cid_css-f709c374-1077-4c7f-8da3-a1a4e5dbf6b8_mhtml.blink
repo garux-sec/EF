@@ -1,0 +1,65 @@
+@charset "utf-8";
+
+.container[_ngcontent-knm-c92] { display: flex; padding-top: 5%; -webkit-box-align: center; align-items: center; -webkit-box-orient: vertical; -webkit-box-direction: normal; flex-direction: column; height: 110% !important; }
+
+.content-center[_ngcontent-knm-c92] { left: 50%; }
+
+.card.radius-login-me[_ngcontent-knm-c92], div.radius-me[_ngcontent-knm-c92] { margin-left: 0.5rem; }
+
+@media screen and (max-width: 1199px) {
+  .content-center[_ngcontent-knm-c92] { left: 50%; }
+  .card.radius-login-me[_ngcontent-knm-c92], div.radius-me[_ngcontent-knm-c92] { margin-left: 0.5rem; }
+}
+
+@media screen and (min-width: 768px) and (max-width: 991px) {
+  .or-sub[_ngcontent-knm-c92] { position: relative; top: -1.6rem; left: 17.2rem; }
+  .box-line-right[_ngcontent-knm-c92] { border-right: 0px solid rgb(227, 227, 227); border-bottom: 1px solid rgb(227, 227, 227); padding-bottom: 0px; margin-bottom: 2rem; }
+  .card.radius-login-me[_ngcontent-knm-c92], div.radius-me[_ngcontent-knm-c92] { margin-left: 0px; }
+  .container[_ngcontent-knm-c92] { display: flex; padding-top: 5%; -webkit-box-align: center; align-items: center; -webkit-box-orient: vertical; -webkit-box-direction: normal; flex-direction: column; height: 110% !important; }
+}
+
+@media screen and (min-width: 531px) and (max-width: 767px) {
+  .or-sub[_ngcontent-knm-c92] { position: relative; top: -1.6rem; left: 11.6rem; }
+  .input-icon-group[_ngcontent-knm-c92] { left: 290px; }
+  .box-line-right[_ngcontent-knm-c92] { border-right: 0px solid rgb(227, 227, 227); border-bottom: 1px solid rgb(227, 227, 227); padding-bottom: 0px; margin-bottom: 2rem; }
+  .card.radius-login-me[_ngcontent-knm-c92], div.radius-me[_ngcontent-knm-c92] { margin-left: 0px; }
+  .container[_ngcontent-knm-c92] { display: -webkit-box; -webkit-box-pack: center; padding-top: 5%; -webkit-box-align: center; align-items: center; -webkit-box-orient: vertical; -webkit-box-direction: normal; flex-direction: column; height: 120% !important; }
+}
+
+@media screen and (min-width: 531px) and (max-width: 767px) and (max-width: 530px) {
+  .or-sub[_ngcontent-knm-c92] { top: 30rem; left: 13rem; }
+}
+
+@media screen and (min-width: 100px) and (max-width: 450px) {
+  .or-sub[_ngcontent-knm-c92] { top: 30rem; left: 11rem; }
+  .box-line-right[_ngcontent-knm-c92] { border-right: 0px solid rgb(227, 227, 227); border-bottom: 1px solid rgb(227, 227, 227); padding-bottom: 0px; margin-bottom: 2rem; }
+  .card.radius-login-me[_ngcontent-knm-c92], div.radius-me[_ngcontent-knm-c92] { margin-left: 0px; }
+  .container[_ngcontent-knm-c92] { display: -webkit-box; -webkit-box-pack: center; padding-top: 5%; -webkit-box-align: center; align-items: center; -webkit-box-orient: vertical; -webkit-box-direction: normal; flex-direction: column; height: 120% !important; }
+}
+
+@media screen and (max-width: 991px) {
+  .container[_ngcontent-knm-c92] { display: -webkit-box; -webkit-box-orient: vertical; -webkit-box-direction: normal; flex-direction: column; }
+}
+
+@media screen and (max-width: 576px) {
+  .card.radius-login-me[_ngcontent-knm-c92] .card-body[_ngcontent-knm-c92], div.radius-me[_ngcontent-knm-c92] .card-body[_ngcontent-knm-c92] { padding: 40px 50px; }
+}
+
+@media screen and (min-width: 350px) and (max-width: 1400px) and (min-width: 350px) and (max-width: 480px) {
+  .col-9.details-box[_ngcontent-knm-c92] { margin-left: 5%; }
+  .app-header-title[_ngcontent-knm-c92] { font-size: 24px; font-family: PSLKandaExtraPro; min-width: auto; text-align: left; vertical-align: middle !important; }
+  .app-header-identity[_ngcontent-knm-c92] { font-size: 13px; color: rgb(0, 112, 201); font-family: Sarabun !important; font-style: normal !important; font-weight: 600 !important; line-height: 30px !important; }
+  .col-1.btn-circle-2[_ngcontent-knm-c92] { margin-top: -3%; margin-left: -8%; }
+}
+
+@media screen and (min-width: 350px) and (max-width: 1400px) and (min-width: 565px) and (max-width: 800px) {
+  .col-9.details-box[_ngcontent-knm-c92] { margin-left: -4%; }
+  .col-1.btn-circle-2[_ngcontent-knm-c92] { margin-top: -1%; margin-left: 3%; }
+  .btn.btn-login.btn-block.load-app.mb-3[_ngcontent-knm-c92] { width: 98%; height: 48px; }
+}
+
+@media screen and (min-width: 350px) and (max-width: 1400px) and (min-width: 801px) and (max-width: 1400px) {
+  .col-9.details-box[_ngcontent-knm-c92] { margin-left: -7%; }
+  .col-1.btn-circle-2[_ngcontent-knm-c92] { margin-top: -1%; margin-left: 90%; position: absolute; }
+  .btn.btn-login.btn-block.load-app.mb-3[_ngcontent-knm-c92] { width: 97%; height: 48px; }
+}

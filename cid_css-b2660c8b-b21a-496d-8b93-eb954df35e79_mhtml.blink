@@ -1,0 +1,51 @@
+@charset "utf-8";
+
+.pl-55[_ngcontent-knm-c86] { padding-left: 55px; }
+
+.waiting-payment[_ngcontent-knm-c86] { color: rgb(240, 158, 69); }
+
+.overdue[_ngcontent-knm-c86] { color: rgb(210, 63, 64); }
+
+.remark[_ngcontent-knm-c86] { color: rgb(63, 119, 210); }
+
+.confirm-cancel-form[_ngcontent-knm-c86] { margin-bottom: 3%; margin-top: 2%; }
+
+.download-modal-outer-div[_ngcontent-knm-c86] { margin-left: 15px; margin-right: 15px; }
+
+.download-modal-tr[_ngcontent-knm-c86] { border-top-left-radius: 10px; border-bottom-left-radius: 10px; }
+
+.download-modal-td[_ngcontent-knm-c86] { border-bottom: 1px solid rgb(232, 232, 232); vertical-align: middle; }
+
+.search-div-form[_ngcontent-knm-c86] { padding-left: 50px; }
+
+.search-refNo-input[_ngcontent-knm-c86] { border-left: 1px solid rgb(232, 232, 232); }
+
+.search-refNo-icon[_ngcontent-knm-c86] { margin-left: 10px; }
+
+.tax-form-status-input[_ngcontent-knm-c86] { font-size: 13px; }
+
+.clear-search-inputs[_ngcontent-knm-c86] { text-align: right; }
+
+.form-type-column-header[_ngcontent-knm-c86] { width: 185px; }
+
+.refNo-column-header[_ngcontent-knm-c86] { width: 250px; }
+
+.branchNo-column-header[_ngcontent-knm-c86] { width: 130px; }
+
+.form-status-column-header[_ngcontent-knm-c86] { width: 170px; }
+
+.formCode-td[_ngcontent-knm-c86] { padding-left: 30px; }
+
+.formCode-td-a[_ngcontent-knm-c86] { top: 2px; position: relative; }
+
+.formCode-td-i[_ngcontent-knm-c86] { font-size: 14px; color: rgb(81, 184, 104); margin-right: 10px; margin-left: 10px; }
+
+.refNo-td[_ngcontent-knm-c86] { padding: 10px 10px 10px 20px; }
+
+.statusName-td[_ngcontent-knm-c86] { padding-left: 10px; }
+
+.value-whitespace[_ngcontent-knm-c86] { white-space: pre-line; }
+
+.mt-20[_ngcontent-knm-c86] { margin-top: 20px; }
+
+.remark-advance-search[_ngcontent-knm-c86] { font-size: 14px; font-family: Sarabun; }

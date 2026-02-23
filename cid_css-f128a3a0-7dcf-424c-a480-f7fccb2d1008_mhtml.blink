@@ -1,0 +1,39 @@
+@charset "utf-8";
+
+.input-icon-group[_ngcontent-knm-c79] { position: absolute; line-height: 0; top: 0.7rem; right: 1.65rem; width: 21px; height: 13px; cursor: pointer; display: flex; }
+
+.input-icon-group.append[_ngcontent-knm-c79] { right: 10.5rem; top: 1rem; }
+
+.input-icon-group[_ngcontent-knm-c79] .icon[_ngcontent-knm-c79] { padding-right: 0.25rem; }
+
+.box-notice-taxAgen[_ngcontent-knm-c79] { border-radius: 10px; border: 1px solid rgb(71, 176, 63); padding: 20px; background-color: rgba(71, 176, 63, 0.1); margin: 0px 0px 20px; font-family: Sarabun; position: relative; line-height: 1.5em; }
+
+.box-notice-taxAgen[_ngcontent-knm-c79] .fa-info-circle[_ngcontent-knm-c79] { position: inherit; left: 15px; top: 25px; color: rgb(71, 176, 63); padding-right: 8px; }
+
+.box-notice-taxAgen[_ngcontent-knm-c79] .text-green[_ngcontent-knm-c79] { color: rgb(71, 176, 63); }
+
+.box-notice-taxAgen[_ngcontent-knm-c79] ul[_ngcontent-knm-c79] { padding-left: 40px; }
+
+.box-notice-taxAgen[_ngcontent-knm-c79] .p-content[_ngcontent-knm-c79] { padding-left: 23px; }
+
+.collapsed[_ngcontent-knm-c79] { border-left: 1px solid rgb(232, 232, 232); }
+
+.collapsed[_ngcontent-knm-c79] i[_ngcontent-knm-c79] { margin-left: 10px; }
+
+th.t-checkall[_ngcontent-knm-c79] { width: 60px; }
+
+th.model-type[_ngcontent-knm-c79] { width: 130px; }
+
+td.model-type[_ngcontent-knm-c79] a[_ngcontent-knm-c79] { top: 2px; position: relative; margin-right: 10px; }
+
+td.model-type[_ngcontent-knm-c79] a[_ngcontent-knm-c79] i[_ngcontent-knm-c79] { font-size: 14px; }
+
+.nid[_ngcontent-knm-c79] { margin-left: 10px; }
+
+.total-amount[_ngcontent-knm-c79] { margin-right: 30px; }
+
+.overdue-message[_ngcontent-knm-c79] { font-size: 14px; color: red; }
+
+.cancel-tax-payment-modal[_ngcontent-knm-c79] p[_ngcontent-knm-c79] { margin-bottom: 3%; margin-top: 2%; }
+
+.return-payment-modal[_ngcontent-knm-c79] p[_ngcontent-knm-c79] { margin-bottom: 3%; margin-top: 2%; text-align: center; }

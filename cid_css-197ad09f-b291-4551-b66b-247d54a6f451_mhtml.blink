@@ -1,0 +1,19 @@
+@charset "utf-8";
+
+.card-img[_ngcontent-knm-c94] { display: block; margin-left: auto; margin-right: auto; width: 100%; }
+
+.btn.btn-secondary-new[_ngcontent-knm-c94] { min-width: 77px; }
+
+.btn-right[_ngcontent-knm-c94] { float: right; }
+
+.horizontal[_ngcontent-knm-c94] hr.active[_ngcontent-knm-c94] { width: 30px; max-width: 30px; background-color: rgb(122, 190, 108); border: 3px solid rgb(122, 190, 108); }
+
+.horizontal[_ngcontent-knm-c94] hr[_ngcontent-knm-c94] { max-width: 30px; width: 30px; background-color: rgb(226, 226, 226); border: 3px solid rgb(226, 226, 226); }
+
+.btn-circle[_ngcontent-knm-c94] { width: 30px; height: 38px; padding: 6px 0px; min-width: 0px; }
+
+.btn.btn-primary-new[_ngcontent-knm-c94] { color: rgb(255, 255, 255); font-family: PSLKandaExtraPro; background-color: rgb(71, 176, 63); position: relative; min-width: 160px; display: inline-block; background-repeat: no-repeat; border: none; border-radius: 10px; font-size: 26px; line-height: 31px; text-align: center; letter-spacing: 1px; }
+
+.btn.btn-primary-new[_ngcontent-knm-c94] > i.right[_ngcontent-knm-c94] { position: absolute; right: 13%; top: 12px; }
+
+.btn.btn-primary-new[_ngcontent-knm-c94] > i.left[_ngcontent-knm-c94] { position: absolute; left: 13%; top: 12px; }

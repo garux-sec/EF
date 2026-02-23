@@ -1,0 +1,7 @@
+@charset "utf-8";
+
+.collapse[_ngcontent-knm-c49] { border-top: 1px solid rgb(226, 226, 226); }
+
+.btn-circle[_ngcontent-knm-c49] { width: 30px; height: 38px; padding: 6px 0px; min-width: 0px; }
+
+.btn-link[_ngcontent-knm-c49] { min-width: 0px; color: rgb(71, 176, 63); font-size: 1.4rem; }

@@ -1,0 +1,15 @@
+@charset "utf-8";
+
+.header-info[_ngcontent-knm-c95] { font-family: "PSL KandaExtra Pro"; font-style: normal; font-weight: 400; font-size: 28px; line-height: 34px; color: rgb(28, 28, 28); }
+
+.detail-info[_ngcontent-knm-c95] { font-family: Sarabun; font-style: normal; font-weight: 400; font-size: 16px; line-height: 24px; color: rgb(28, 28, 28); }
+
+.btn[_ngcontent-knm-c95] { font-family: "PSL KandaExtra Pro"; font-style: normal; font-weight: 400; font-size: 26px; line-height: 31px; text-align: center; color: rgb(255, 255, 255); background: rgb(122, 190, 108); border-radius: 10px; width: 90px; height: 47px; }
+
+.btn.btn-login[_ngcontent-knm-c95], .btn.btn-login.MTA2[_ngcontent-knm-c95] { background-color: rgb(97, 193, 97); border-radius: 0.52rem; min-height: 2.89rem; color: rgb(245, 245, 245); font-size: 24px; margin-top: 20px; }
+
+.btn.btn-login[_ngcontent-knm-c95]:hover { background-color: rgb(65, 167, 65); }
+
+.btn.MTA2.btn-login[_ngcontent-knm-c95] { background-color: rgb(2, 71, 114) !important; }
+
+.btn.MTA2.btn-login[_ngcontent-knm-c95]:hover { background-color: rgb(2, 57, 91) !important; }

@@ -1,0 +1,23 @@
+@charset "utf-8";
+
+.modal-xl[_ngcontent-knm-c11] { max-width: 60% !important; }
+
+.text-title[_ngcontent-knm-c11] { color: rgb(16, 162, 0); }
+
+div.tab-bg[_ngcontent-knm-c11] { background: url("3.0921f65505a103f11d05.jpg") center center no-repeat; }
+
+.btn-custom[_ngcontent-knm-c11] { background-repeat: repeat-x; background-image: linear-gradient(rgb(87, 198, 73), rgb(50, 168, 36)); text-shadow: rgba(0, 0, 0, 0.33) 0px -1px 0px; -webkit-font-smoothing: antialiased; background-color: rgb(0, 194, 48) !important; color: rgb(255, 255, 255) !important; }
+
+.btn-cancel[_ngcontent-knm-c11] { color: rgb(255, 255, 255); background-color: rgb(168, 168, 168); border-color: rgb(168, 168, 168); }
+
+ef-tax div.modal-dialog li.dropdown { background-position: 90% 15px !important; }
+
+div.clear-bg-color[_ngcontent-knm-c11] { background-color: transparent; border: none; }
+
+ef-tax tabset li.nav-item a { background-color: rgb(245, 245, 245); color: rgb(80, 80, 80); }
+
+ef-tax tabset li.nav-item a:not(.active) { background-color: rgb(80, 80, 80); color: rgb(245, 245, 245); }
+
+ef-tax tabset div.tab-content { border: 1px solid rgba(0, 0, 0, 0.2); background-color: rgb(255, 255, 255); }
+
+.cdk-overlay-container { z-index: 1500 !important; }

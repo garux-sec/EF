@@ -1,0 +1,63 @@
+@charset "utf-8";
+
+a[_ngcontent-knm-c17], button[_ngcontent-knm-c17], h1[_ngcontent-knm-c17], h4[_ngcontent-knm-c17], span[_ngcontent-knm-c17] { font-family: PSLKandaExtraPro; }
+
+h1[_ngcontent-knm-c17], h4[_ngcontent-knm-c17] { color: rgba(50, 60, 90, 0.87); }
+
+h1.font[_ngcontent-knm-c17], h4.font[_ngcontent-knm-c17] { font-family: "PSL Kanda Pro"; }
+
+a[_ngcontent-knm-c17]:hover { color: rgb(60, 150, 54) !important; }
+
+button[_ngcontent-knm-c17] { font-size: 24px !important; }
+
+p[_ngcontent-knm-c17] { font-family: SarabunLight; }
+
+.card-text[_ngcontent-knm-c17] { color: rgb(164, 164, 164); }
+
+.card[_ngcontent-knm-c17] { width: 100%; min-height: 140px !important; padding: 20px 18px !important; }
+
+.line-green-card[_ngcontent-knm-c17] { border-bottom: 2px solid rgb(122, 190, 108); }
+
+.position-line-green-card[_ngcontent-knm-c17] { position: relative; bottom: 33px; left: 4px; }
+
+.fas[_ngcontent-knm-c17] { color: rgb(250, 226, 0); }
+
+.far[_ngcontent-knm-c17] { color: rgb(218, 218, 218); }
+
+.size-favorite[_ngcontent-knm-c17] { font-size: 24px; position: absolute; top: 13px; left: 13px; z-index: 1; }
+
+.font-big-size[_ngcontent-knm-c17] { font-size: 60px; color: rgb(122, 190, 108); }
+
+.draft-color[_ngcontent-knm-c17] { height: 40px; border: 1px solid rgb(122, 190, 108); color: rgb(122, 190, 108) !important; }
+
+.font-middel-size[_ngcontent-knm-c17] { font-size: 34px; padding-bottom: 15px; }
+
+.color-green[_ngcontent-knm-c17] { color: rgb(122, 190, 108); }
+
+.font-small-size[_ngcontent-knm-c17] { font-size: 28px; }
+
+.btn-primary[_ngcontent-knm-c17] { background: rgb(248, 248, 248); border-radius: 10px; color: rgba(50, 60, 90, 0.87); }
+
+.line-green[_ngcontent-knm-c17] { width: 100%; float: left; margin-right: 0px; border-bottom: 1px solid rgb(122, 190, 108); }
+
+.draft-position[_ngcontent-knm-c17] { position: absolute; right: -18px; top: -18px; }
+
+.btn-primary[_ngcontent-knm-c17]:hover { background: rgb(122, 190, 108); color: rgb(255, 255, 255) !important; }
+
+.tax-card[_ngcontent-knm-c17] { padding-right: 10px; padding-left: 10px; }
+
+.custom-size-btn[_ngcontent-knm-c17] { height: 40px; margin-right: 0.5rem !important; width: 120px !important; min-width: 100px !important; }
+
+.custom-box-center[_ngcontent-knm-c17] { display: flex; -webkit-box-align: center; align-items: center; justify-content: left; }
+
+.custom-box-center.right[_ngcontent-knm-c17] { justify-content: right !important; }
+
+.btn[_ngcontent-knm-c17] .btn-primary-new-2[_ngcontent-knm-c17] { padding: 0px !important; }
+
+button.btn.btn-primary-new-2.custom-size-btn[_ngcontent-knm-c17] { padding: 0px; }
+
+label[_ngcontent-knm-c17] { font-size: 22px; font-family: PSLKandaExtraPro; }
+
+@media screen and (max-width: 447px) {
+  button.btn.btn-sm.btn-secondary-new.draft-color[_ngcontent-knm-c17] { height: 100%; width: 100%; }
+}

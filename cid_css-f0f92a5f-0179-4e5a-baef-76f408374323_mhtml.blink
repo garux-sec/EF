@@ -1,0 +1,13 @@
+@charset "utf-8";
+
+.bs3.popover-top[_nghost-knm-c76] { margin-bottom: 10px; }
+
+.bs3.popover.top[_nghost-knm-c76] > .arrow[_ngcontent-knm-c76] { margin-left: -2px; }
+
+.bs3.popover.top[_nghost-knm-c76] { margin-bottom: 10px; }
+
+.popover.bottom[_nghost-knm-c76] > .arrow[_ngcontent-knm-c76] { margin-left: -4px; }
+
+.bs3.bs-popover-left[_nghost-knm-c76] { margin-right: 0.5rem; }
+
+.bs3.bs-popover-right[_nghost-knm-c76] .arrow[_ngcontent-knm-c76], .bs3.bs-popover-left[_nghost-knm-c76] .arrow[_ngcontent-knm-c76] { margin: 0.3rem 0px; }

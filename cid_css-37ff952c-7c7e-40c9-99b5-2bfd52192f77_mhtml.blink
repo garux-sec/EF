@@ -1,0 +1,3 @@
+@charset "utf-8";
+
+.disbtn[_ngcontent-knm-c42] { border-left: 2px solid gray; margin-left: 2%; }

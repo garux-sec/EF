@@ -1,0 +1,9 @@
+@charset "utf-8";
+
+.btn.btn-primary-new[_ngcontent-knm-c21] { position: relative; min-width: 160px; display: inline-block; background-repeat: no-repeat; background-color: rgb(71, 176, 63); border: none; border-radius: 10px; font-family: PSLKandaExtraPro; font-size: 26px; line-height: 31px; text-align: center; color: rgb(255, 255, 255); letter-spacing: 1px; }
+
+.modal-content[_ngcontent-knm-c21] { max-width: 860px; width: 100%; margin: 0px auto; border: none; border-radius: 5px; box-shadow: rgba(0, 0, 0, 0.05) 0px 3px 6px; }
+
+.content[_ngcontent-knm-c21] { font-family: SarabunLight; color: rgb(28, 28, 28); font-weight: 300; box-shadow: inherit; min-height: inherit; margin-top: inherit; border-radius: inherit; background-color: transparent; margin-bottom: 0px; }
+
+.content[_ngcontent-knm-c21] h4[_ngcontent-knm-c21] { font-size: 20px; line-height: 26px; }

@@ -46,13 +46,13 @@ def convert_mhtml_to_html(mhtml_path, output_dir, output_main_html="index.html")
     # Now replace resources in HTML
     for loc, safe_filename in resources.items():
         if loc:
+            # Change .blink to .css
+            if safe_filename.endswith('.blink'):
+                new_filename = safe_filename[:-6] + '.css'
+                os.rename(os.path.join(output_dir, safe_filename), os.path.join(output_dir, new_filename))
+                safe_filename = new_filename
             html_content = html_content.replace(loc, safe_filename)
             
-    # Clean up some angular attributes and comments for a cleaner HTML
-    html_content = re.sub(r'\s_ngcontent-[a-zA-Z0-9-]+(="")?', '', html_content)
-    html_content = re.sub(r'\s_nghost-[a-zA-Z0-9-]+(="")?', '', html_content)
-    html_content = re.sub(r'\sng-reflect-[a-zA-Z0-9-]+="[^"]*"', '', html_content)
-    html_content = re.sub(r'<!--\s*(ng-container|ng-template|bindings|router-outlet).*?-->', '', html_content)
     # Remove <base href="...">
     html_content = re.sub(r'<base\s+href="[^"]*">', '', html_content)
 
